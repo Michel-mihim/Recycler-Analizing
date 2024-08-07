@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RecyclerView-Lesson-2</string>
+    <string name="title">Список цветов</string>
+</resources>
