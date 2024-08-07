@@ -38,7 +38,7 @@ class ColorBoxAdapter(
             firstTextView.setBackgroundColor(itemView.context.getColor(colorBox.value))
             firstTextView.text = colorBox.label1
 
-
+            secondTextView.text = colorBox.label2
         }
     }
 }
